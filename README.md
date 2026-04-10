@@ -1,0 +1,2 @@
+# mypubrepo
+public repo
